@@ -1,3 +1,4 @@
+![Profile banner](github_banner.png)
 ## Hi there 👋
 
 <!--
